@@ -1,0 +1,12 @@
+# Compiled class files
+/target/
+*.class
+
+# IDE specific files (depends on the IDE you're using)
+*.iml
+.idea/
+
+# OS specific files
+.DS_Store
+
+.env
